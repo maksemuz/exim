@@ -1,2 +1,2 @@
 # exim
-this is my sample configs
+this is my sample config
